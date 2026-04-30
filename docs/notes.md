@@ -22,3 +22,4 @@ Notes and usage details for Password-Manager.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- add a note about the defaults
